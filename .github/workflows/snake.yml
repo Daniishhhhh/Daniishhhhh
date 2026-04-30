@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:          # allow manual trigger
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # silence Node.js 20 deprecation warning
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -25,10 +25,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
             dist/github-contribution-grid-snake-light.svg
-          snake_color: "#6C63FF"         # snake body (purple)
-          snake_head_color: "#FF4081"    # snake head (pink)
-          grid_color: "#1E1E1E"          # background grid (dark gray)
-          dot_color: "#00C853"           # contribution dots (bright emerald green)
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
