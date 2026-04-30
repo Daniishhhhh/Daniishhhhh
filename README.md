@@ -23,10 +23,12 @@ I'm a passionate **Computer Science Engineering student** (Class of 2027) at **B
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white)]([https://github.com/Daniishhhhh/danish-portfolio](https://danish-portfolio-khaki.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white)](https://danish-portfolio-khaki.vercel.app/)
+[![Portfolio Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniishhhhh/danish-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danish-sidiq-rather-b91b931bb)
 [![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Daniishhhhh)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishsidiqrather@gmail.com)
+
 
 </div>
 
