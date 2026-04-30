@@ -122,17 +122,8 @@ I'm a passionate **Computer Science Engineering student** (Class of 2027) at **B
 
 ## 🐍 Contribution Snake
 
-<!-- 
-  ─────────────────────────────────────────────────────────────────────
-  Make sure you have saved the snake.yml file in .github/workflows/
-  AND that you have manually clicked "Run workflow" in the Actions tab!
-  ─────────────────────────────────────────────────────────────────────
--->
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Daniishhhhh/Daniishhhhh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-
+  <img src="https://raw.githubusercontent.com/Daniishhhhh/Daniishhhhh/output/snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
 ---
