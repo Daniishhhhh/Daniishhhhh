@@ -8,6 +8,22 @@
 
 </div>
 
+<a href="https://daniishhhhh.github.io/Daniishhhhh/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniishhhhh/Daniishhhhh/main/assets/profile-terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daniishhhhh/Daniishhhhh/main/assets/profile-terminal-light.svg">
+    <img alt="Developer-directory terminal preview. Open the interactive directory." src="https://raw.githubusercontent.com/Daniishhhhh/Daniishhhhh/main/assets/profile-terminal-dark.svg">
+  </picture>
+</a>
+
+<div align="center">
+
+**[Launch the interactive developer directory →](https://daniishhhhh.github.io/Daniishhhhh/)** · [View its source](./terminal/)
+
+*The terminal above is a GitHub-safe visual preview; the linked directory is the functional application.*
+
+</div>
+
 ---
 
 ## Engineering focus

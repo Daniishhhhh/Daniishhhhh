@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Interactive developer directory for Danish Sidiq Rather.">
+    <title>Danish Sidiq Rather — Developer Directory</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="shell" aria-label="Interactive developer directory">
+      <header class="chrome"><span class="dots" aria-hidden="true"><i></i><i></i><i></i></span><span>danish@github: ~/directory</span><span class="status"><b></b>ONLINE</span></header>
+      <section id="output" class="output" aria-live="polite"></section>
+      <form id="terminal-form" class="prompt" autocomplete="off">
+        <label for="command"><span>$</span><span class="sr-only">Enter a terminal command</span></label>
+        <input id="command" name="command" spellcheck="false" autofocus placeholder="type ‘help’ to explore">
+      </form>
+      <nav class="shortcuts" aria-label="Directory shortcuts">
+        <button data-command="projects">projects</button><button data-command="stack">stack</button><button data-command="portfolio">portfolio</button><button data-command="contact">contact</button><button data-command="clear">clear</button>
+      </nav>
+    </main>
+    <footer>Built as a static, privacy-respecting developer directory. No analytics. No tracking.</footer>
+    <script src="app.js"></script>
+  </body>
+</html>

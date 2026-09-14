@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="title desc">
+  <title id="title">Danish Sidiq Rather developer directory terminal</title>
+  <desc id="desc">A terminal preview showing commands for identity, focus, projects, portfolio, and contact.</desc>
+  <rect width="1200" height="540" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="538" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+  <path d="M0 62h1200" stroke="#30363d" stroke-width="2"/>
+  <circle cx="38" cy="31" r="7" fill="#f47067"/><circle cx="62" cy="31" r="7" fill="#d29922"/><circle cx="86" cy="31" r="7" fill="#3fb950"/>
+  <text x="600" y="38" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" text-anchor="middle">danish@github — developer directory</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24">
+    <text x="56" y="120" fill="#58a6ff">$</text><text x="82" y="120" fill="#e6edf3"> whoami</text>
+    <text x="56" y="160" fill="#e6edf3">Danish Sidiq Rather</text>
+    <text x="56" y="224" fill="#58a6ff">$</text><text x="82" y="224" fill="#e6edf3"> focus</text>
+    <text x="56" y="264" fill="#a5d6ff">AI/LLM  ·  RAG  ·  Backend  ·  Security  ·  Applied ML</text>
+    <text x="56" y="328" fill="#58a6ff">$</text><text x="82" y="328" fill="#e6edf3"> help</text>
+    <text x="56" y="370" fill="#8b949e">projects   stack   portfolio   contact   clear</text>
+    <text x="56" y="450" fill="#58a6ff">$</text><rect x="80" y="428" width="13" height="28" fill="#58a6ff"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="970" y="486" width="170" height="28" rx="14" fill="#143d2a"/><circle cx="992" cy="500" r="5" fill="#3fb950"/><text x="1006" y="506" fill="#7ee787" font-family="ui-monospace, monospace" font-size="13">SYSTEM READY</text>
+</svg>
